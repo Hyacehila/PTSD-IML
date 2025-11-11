@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+**This project is only for personal backups to reduce the burden of local file management.**
+
 This project is a complete machine learning research project for PTSD (Post-Traumatic Stress Disorder) prediction. It analyzes various clinical and demographic features to build a random forest model for predicting PCL (PTSD Checklist) total scores. The project includes a complete workflow of data preprocessing, feature engineering, model training, performance evaluation, and interpretability analysis.
 
 ## Project Structure
